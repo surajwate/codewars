@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Python Environments
+codewars-env
+
+# Local Python files
+get-pip.py
